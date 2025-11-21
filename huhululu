@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>餐厅电子菜单</title>
+  <style>
+    /* 简单样式：图片自适应宽度、居中显示 */
+    body {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    img {
+      max-width: 100%;
+      display: block;
+      margin: 15px auto;
+      border-radius: 8px; /* 可选：给图片加圆角 */
+    }
+  </style>
+</head>
+<body>
+  <h1>XX餐厅电子菜单</h1>
+  <!-- 替换为自己的图片名称 -->
+  <img src="menu-01.jpg" alt="菜品区1">
+  <img src="menu-02.jpg" alt="菜品区2">
+  <img src="menu-03.jpg" alt="饮品区">
+  <!-- 可继续添加更多图片 -->
+</body>
+</html>
